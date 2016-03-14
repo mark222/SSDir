@@ -31,7 +31,7 @@ Some of the features of this directory system include:
 <li>Based on modern, well known web programming technolgoies including HTML-5, Tomcat web server, and Servlets.</li>
 </ul>
 
-!(https://github.com/mark222/SSDir/raw/master/readme-images/ssdir-logon.jpg "Directory Logon Page")
+![alt tag](https://github.com/mark222/SSDir/raw/master/readme-images/ssdir-logon.jpg "Directory Logon Page")
 
 # History of SSDir
 Initial development of this project was done by Mark McMillan for [Soapstone United Methodist Church](http://www.soapstoneumc.org) in Raleigh NC starting in October of 2014. The system was opened to church members in July of 2015 and has been in continuous use since then. In 2014 the church's photo directory was several years old and the lack of up-to-date contact information was a barrier to communicaitons within the church community. It was agreed that the membership did not want to engage a commercial photogapher to "upsell" portraits in exchange for a free or low-cost printed directory. It was sugged that an online solution would better serve the members and general needs of the church for accurate contact information.
